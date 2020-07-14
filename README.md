@@ -52,4 +52,3 @@ This is a datset of Proser Loans , Prosper makes personal loans easy. Whether yo
 
 ### What is the structure of your dataset?
 This data set contains 113,937 loans with 81 variables . Rows = 113,937 and Columns = 81
-
